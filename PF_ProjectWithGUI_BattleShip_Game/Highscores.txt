@@ -1,0 +1,10 @@
+ab 10
+cd 9
+ef 8
+gh 7
+ij 6
+kl 5
+mn 4
+op 3
+qr 2
+st 1
